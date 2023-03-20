@@ -1,5 +1,5 @@
 # slophish
-phscan - slophish is a project of the organization Hack Protect. It is a public project with the aim of detecting as many new Slovenian domains as possible that could be potential phishing sites. 
+phscan is a tool that daily scans NRD databases and, based on certain keywords, displays domains in a Telegram group - https://t.me/phscan. With the help of this tool, we create the slophish list, which contains phishing domains that target Slovenian-speaking users.
 
 The phscan tool currently scans the following keywords: 
 
@@ -21,6 +21,4 @@ The phscan tool currently scans the following keywords:
 - skb
 - blokiran
 
-and adds potential phishing domains to the slophish list.
-You can also monitor rough results in our Telegram group - https://t.me/phscan. 
 
