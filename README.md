@@ -21,4 +21,4 @@ The phscan tool currently scans the following keywords:
 - skb
 - blokiran
 
-The tool also inspects general words and words from the crypto world. All domains posted in the Telegram group are also manually reviewed daily. Notifications about foreign phishing websites are posted on Twitter.
+The tool also inspects general words and words from the crypto world. All domains posted in the Telegram group are also manually reviewed daily. Notifications about non-slo phishing websites are posted on Twitter.
