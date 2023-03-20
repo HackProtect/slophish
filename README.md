@@ -1,5 +1,5 @@
 # slophish
-slophish is a project of the organization Hack Protect. It is a public endeavor aimed at identifying as many new Slovenian domains as possible that may pose a potential phishing threat.
+phscan - slophish is a project of the organization Hack Protect. It is a public project with the aim of detecting as many new Slovenian domains as possible that could be potential phishing sites. 
 
 The phscan tool currently scans the following keywords: 
 
