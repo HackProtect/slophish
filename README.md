@@ -23,5 +23,4 @@ The phscan tool currently scans the following keywords:
 
 and adds potential phishing domains to the slophish list.
 You can also monitor rough results in our Telegram group - https://t.me/phscan. 
-www.hack-protect.si
-Reddit: https://www.reddit.com/r/HackProtectSlo/
+
