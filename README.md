@@ -20,6 +20,7 @@ Slovenian keywords:
 - moj
 - skb
 - blokiran
+- posta
 
 The tool also inspects general words and words from the crypto world. All domains posted in the Telegram group are also manually reviewed daily. Notifications about non-slo phishing websites are posted on Twitter.
 
