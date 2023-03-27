@@ -1,7 +1,7 @@
 # slophish - The list of Slovenian phishing domains
-The list of Slovenian phishing domains - slophish is created with the help of the phscan tool. phscan is a tool that daily scans NRD databases and, based on certain keywords, displays domains in a Telegram group - https://t.me/phscan. With the help of this tool, we create the slophish list, which contains phishing domains that target Slovenian-speaking users.
+The list of Slovenian phishing domains - slophish is created with the help of the phscan tool. phscan is a tool that daily scans NRD databases and, based on certain keywords, produces list which are then manually reviewed by the Hack Protect team.
 
-Slovenian keywords: 
+Keywords: 
 
 - slovenia
 - slovenija
@@ -21,31 +21,3 @@ Slovenian keywords:
 - skb
 - blokiran
 - posta
-
-The tool also inspects general words and words from the crypto world. All domains posted in the Telegram group are also manually reviewed daily. Notifications about non-slo phishing websites are posted on Twitter.
-
-General keywords:
-
-- face
-- mail
-- pay
-- insta
-- bank
-- flix
-- outlook
-- book
-- amazon
-
-Crypto keywords:
-
-- snips
-- xpr
-- coin
-- crypto
-- meta
-- proton
-- metal
-- ethereum
-- binance
-- drop
-- wallet
