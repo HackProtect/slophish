@@ -1,11 +1,8 @@
-google-drive.zip
-abomb.zip 
-appleupdate.zip
-archivio.zip
-asd.zip
-attached.zip
-attachment.zip
-baidu.zip
+! Hack Protect generated Slovenian phishing list - slophish on 22 May 2023 
+! Homepage: https://hack-protect.si/
+! The following domains have been identified as part of the slophish list.
+! All domains have undergone thorough scanning and analysis using VirusTotal and marked malicious.
+
 nikeinslovenia.com
 jordanslovenija.co
 portal-novakbm.com
