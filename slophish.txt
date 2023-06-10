@@ -1,4 +1,4 @@
-! Hack Protect generated Slovenian phishing list - slophish on 09 Jun 2023 
+! Hack Protect generated Slovenian phishing list - slophish on 10 Jun 2023 
 ! Homepage: https://hack-protect.si/
 
 nikeinslovenia.com
@@ -118,3 +118,19 @@ nlb-nkbm.info
 nlb-nkbm.online
 nlb-nkbm.digital
 nlb-nkbm-si.net
+tevaislovenia.com
+frankie4slovenija.com
+varleyslovenija.com
+dieselslovenijashop.com
+furlaslovenija.com
+dolcevitaslovenija.com
+leejeansslovenija.com
+llbeanslovenija.com
+naturalizerslovenija.com
+xn----hd6el8s9odtqov5bozn0vkrskbrdfa489l.com
+benchslovenija.com
+kappaslovenijashop.com
+xn--rnovation-nrgtique-bwbjbc.com
+barbourslovenija.com
+playboyslovenija.com
+dunelondonslovenija.com
