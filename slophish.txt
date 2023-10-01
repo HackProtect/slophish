@@ -1,4 +1,4 @@
-! Hack Protect generated Slovenian phishing list - slophish on 26 Sep 2023 
+! Hack Protect generated Slovenian phishing list - slophish on 01 Oct 2023 
 ! Homepage: https://hack-protect.si/
 
 nikeinslovenia.com
@@ -176,3 +176,8 @@ kamikslovenia.com
 zaraslovenijaonline.com/
 agoldeslovenija.com
 skbinfo.xyz
+betsat-eposta.com
+whatsappinnovators.com
+merrelslovenija.com
+hunter-slovenia.com
+zaraslovenia.com
